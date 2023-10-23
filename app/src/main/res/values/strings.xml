@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KAP Bildirimleri</string>
+
+    <string name="kap_url" translatable="false">https://www.kap.org.tr/tr/api/disclosures?fromDate={date1}&amp;toDate={date2}</string>
+    <string name="kap_url_last" translatable="false">https://www.kap.org.tr/tr/api/disclosures?afterDisclosureIndex=</string>
+    <string name="json_title_1" translatable="false">Genel Kurul İşlemlerine İlişkin Bildirim</string>
+    <string name="json_title_2" translatable="false">Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim</string>
+    <string name="json_title_3" translatable="false">Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim</string>
+    <string name="kap_notification_url" translatable="false">https://www.kap.org.tr/tr/Bildirim/</string>
+    <string name="title_activity_kap_notification">KAP Bildirim</string>
+    <string name="alert_dialog_battery_optimization">Pil Kullanımı Optimizasyonu</string>
+    <string name="alert_dialog_battery_perm">Uygulamanın Android işletim sistemi tarafından pil optimizasyonundan çıkarılması gerekmektedir. Aksi takdirde bildirimler düzenli olarak kontrol edilemeyebilir.</string>
+    <string name="text_cancel">Çıkış</string>
+    <string name="text_ok">Tamam</string>
+    <string name="text_yes">Evet</string>
+    <string name="text_no">Hayır</string>
+    <string name="text_delete">Sil</string>
+    <string name="text_delete_warning">Silmek istediğinize emin misiniz?</string>
+    <string name="text_show_checked_times">Kontrol Zamanları</string>
+
+</resources>
