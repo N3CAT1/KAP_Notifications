@@ -1,10 +1,11 @@
 # KAP Bildirimleri
 Bir arkadaşımın isteği üzerine yazmış olduğum bir uygulamadır.
-Uygulamada sadece aşağıdaki bildirim konuları için bildirim gelmektedir:
+Uygulamada Kamuyu Aydınlatma Platformundan (KAP) sadece aşağıdaki bildirim konuları için bildirim gelmektedir:
 * Genel Kurul İşlemlerine İlişkin Bildirim 
 * Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim
 * Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim
 
+Uygulama arka planda 1 dakikada bir bu konu çaşlıklarını kontrol etmektedir.
 Bunun yanında uygulama için gerekli değişiklikler yapılarak diğer bildirim türleri için de bildirim alınabilir.
 
 ## Ekran Görüntüleri:
